@@ -21,6 +21,13 @@
     background-color: #899DAD;
 }
 
+.display,
+.symbols,
+.numbers,
+.uguale {
+    font-size: 18px;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
@@ -53,5 +60,5 @@
     display: flex;
     justify-content: flex-end;
     padding-right: 10px;
-    padding: 20px;
+    padding: 10px;
 }
